@@ -1,0 +1,33 @@
+.ui.borderless.topmenu.menu {
+  background-color: black;
+  border-radius: 0;
+  font-family: "Open Sans", sans-serif;
+  color: white;
+  font-size: 9pt;
+}
+
+.ui.borderless.banner.menu {
+  padding-top: 20px;
+  box-shadow: none;
+  border: none;
+  font-size: 10pt;
+  font-weight: bold;
+}
+
+.cafe-background {
+  background: #3FA3DC;
+  background-size: cover;
+  text-align: center;
+  padding-top: 50px;
+  font-size: 40pt;
+  color: white;
+  height: 500px;
+}
+
+.footer-background {
+  margin-top: 50px;
+}
+
+.ui.labeled.input {
+  border-radius: 0;
+}
